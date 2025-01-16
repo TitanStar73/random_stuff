@@ -1,0 +1,57 @@
+Chest Press
+Chest Fly
+Incline Bench Press
+Bench Press
+Push ups
+Knee Push ups
+Shoulder Press
+Shoulder Fly
+Cable Lateral Raise
+Dumbell Lateral Raise
+Reverse Lateral Raise (YT)
+Lat PD Large Grip
+Lat PD Small Grip
+Pull ups
+Row
+Back Hyperextensions
+Leg Extension
+Leg Curl
+Leg Press
+Calf Press
+Standing Calf Raises
+Seated Dips
+Standing Dips
+Tricep pushdown
+Skull Crusher
+Overhead tricep extension (cable)
+Preacher Curls
+Cable bicep curls
+Bicep Curls
+Hammer Preacher Curls
+Hammer Curls
+Cable hammer curls
+Cable curls (Outer Bicep)
+Cable curls (Neutral)
+Bayesian Cable curls
+Cable Wrist Curls
+Farmers Walk (Reps = Time in seconds)
+Grip Squeeze
+Bar Hang (Reps = Time in seconds)
+Radial Deviation
+Ulnar Deviation
+Floor Situps (Anchored)
+Floor Situps (Feet in air)
+Hanging Knee Raises
+Hanging Half Knee Raises
+Hanging Leg Raises
+Lying Knee Raises
+Lying Half Knee Raises
+Lying Leg Raises
+Russian Twist
+Plank (Reps = Time in seconds)
+Decline Situps
+Forearm curls (palm up)
+Forearm curls (palm down)
+Face pulls
+Squats
+Lunges
