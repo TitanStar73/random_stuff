@@ -62,3 +62,4 @@ Rows (Dumbell)
 Free weight Bench Press
 Free weight squat
 Wrist Curl Dumbell
+Reverse Wrist Curl Dumbell 
