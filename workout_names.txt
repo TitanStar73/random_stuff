@@ -64,4 +64,6 @@ Free weight squat
 Wrist Curl Dumbell
 Reverse Wrist Curl Dumbell
 Sumo squat
-Smith machine squats 
+Smith machine squats
+Smith bench press
+Smith incline bench press
